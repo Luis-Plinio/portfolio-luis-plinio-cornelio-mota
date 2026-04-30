@@ -4,10 +4,9 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn] (https://www.linkedin.com/in/luis-plinio-corn%C3%A9lio-mota-84a438363/)
-[![E-mail] (luispliniocmota2@gmail.com)
-[![Currículo] (https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV_/cv_plinio.pdf)
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-plinio-corn%C3%A9lio-mota-84a438363/) 
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luispliniocmota2@gmail.com) 
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV_/cv_plinio.pdf)
 ---
  
 ### 👨‍💻 Sobre
