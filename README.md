@@ -32,15 +32,15 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade C
 | :--- | :--- | :---: |
 | **Algoritmo de auditoria de dados** | programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./ex1/) |
 | :--- | :--- | :---: |
-| **Engenharia de soluções lógicas** | Fluxograma feito no papél em contexto hospitalar | [Ver Projeto](./projeto-banco-dados/) |
+| **Engenharia de soluções lógicas** | Fluxograma feito no papél em contexto hospitalar | [Ver Projeto](./ex2/) |
 | :--- | :--- | :---: |
-| **Modularização** | Fluxograma e pseudocódigo feito a mão em contexto de vendas | [Ver Projeto](./projeto-banco-dados/) |
+| **Modularização** | Fluxograma e pseudocódigo feito a mão em contexto de vendas | [Ver Projeto](./ex3/) |
 | :--- | :--- | :---: |
-| **Traduzindo lógica para python** | programa que aplica vendas com descontos, calculo de média, calculo de qualidade do clima, calculo de valor poupança | [Ver Projeto](./projeto-banco-dados/) |
+| **Traduzindo lógica para python** | programa que aplica vendas com descontos, calculo de média, calculo de qualidade do clima, calculo de valor poupança | [Ver Projeto](./ex4/) |
 | :--- | :--- | :---: |
-| **Engenharia de contexto e lógica física** | programa de analise de microclima local e navegação e ocupação espacial | [Ver Projeto](./projeto-banco-dados/) |
+| **Engenharia de contexto e lógica física** | programa de analise de microclima local e navegação e ocupação espacial | [Ver Projeto](./ex5/) |
 | :--- | :--- | :---: |
-| **Desenhando emojis com dados** | programa criador de emojis, matrizes musicais e integrador de playlists de imagens | [Ver Projeto](./projeto-banco-dados/) |
+| **Desenhando emojis com dados** | programa criador de emojis, matrizes musicais e integrador de playlists de imagens | [Ver Projeto](./ex6/) |
 | :--- | :--- | :---: | 
 
 ---
