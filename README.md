@@ -22,29 +22,23 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade C
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- 
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
+
+
 ---
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Algoritmo de auditoria de dados** | programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-banco-dados/) |
+| **Engenharia de soluções lógicas** | Fluxograma feito no papél em contexto hospitalar | [Ver Projeto](./projeto-banco-dados/) |
+| **Modularização** | Fluxograma e pseudocódigo feito a mão em contexto de vendas | [Ver Projeto](./projeto-banco-dados/) |
+| **Traduzindo lógica para python** | programa que aplica vendas com descontos, calculo de média, calculo de qualidade do clima, calculo de valor poupança | [Ver Projeto](./projeto-banco-dados/) |
+| **Engenharia de contexto e lógica física** | programa de analise de microclima local e navegação e ocupação espacial | [Ver Projeto](./projeto-banco-dados/) |
+| **Desenhando emojis com dados** | programa criador de emojis, matrizes musicais e integrador de playlists de imagens | [Ver Projeto](./projeto-banco-dados/) |
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+
 ---
  
 ### 🏗 Estrutura do Repositório
